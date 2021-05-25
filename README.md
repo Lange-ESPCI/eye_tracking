@@ -24,4 +24,9 @@ Version utilisée :
 
 ## Recompilation du driver IMX219 pour la caméra
 
+Pour reconstruire le kernel :
+(https://forums.developer.nvidia.com/t/120-fps-mode-support-removed-for-imx219-sensor/174327)[https://forums.developer.nvidia.com/t/120-fps-mode-support-removed-for-imx219-sensor/174327]
+(https://docs.nvidia.com/jetson/l4t/index.html#page/Tegra%20Linux%20Driver%20Package%20Development%20Guide/kernel_custom.html#)[https://docs.nvidia.com/jetson/l4t/index.html#page/Tegra%20Linux%20Driver%20Package%20Development%20Guide/kernel_custom.html#]
+
 Utilisation de l'image : `tegra210-p3448-0000-p3449-0000-a02.dtb`
+
